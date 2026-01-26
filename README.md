@@ -1,2 +1,2 @@
 # AVITODOC
-Private Policy
+Если хотели прочитать Политику Приватности, посмотрите PrivatePolicy.md
